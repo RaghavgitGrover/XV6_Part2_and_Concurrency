@@ -1,0 +1,60 @@
+Running a.out interactively and tracking time and memory usage...
+Sorting by: TIMESTAMP
+Using Parallel Counting Sort (n=32 <= threshold=42)
+Total runtime: 0.506660 seconds
+Total memory used: 36736 KB
+ef31 175 2023-11-15T09:55:00 (sort_key: 22470)
+bc02 214 2023-11-20T13:00:00 (sort_key: 465570)
+op15 160 2011-03-22T15:10:00 (sort_key: 786930)
+lm12 120 2007-06-15T13:10:00 (sort_key: 1893318)
+de04 115 2021-02-01T08:15:00 (sort_key: 2147661)
+st19 110 2022-01-19T16:25:00 (sort_key: 2589864)
+fg32 180 2021-10-04T14:05:00 (sort_key: 3336663)
+qr17 130 1995-10-12T11:20:00 (sort_key: 3477081)
+vw22 180 1995-10-12T11:20:00 (sort_key: 3477081)
+hi08 225 1998-08-20T14:35:00 (sort_key: 3603990)
+rs18 125 2012-08-12T12:00:00 (sort_key: 4753134)
+ef05 101 2014-11-01T10:55:00 (sort_key: 4819641)
+ij09 109 2022-06-13T13:45:00 (sort_key: 5108265)
+gh07 108 2010-05-30T08:50:00 (sort_key: 5189727)
+jk10 107 2006-04-18T10:25:00 (sort_key: 5336214)
+de30 165 2023-09-25T10:30:00 (sort_key: 5618169)
+yz25 170 1990-02-22T07:00:00 (sort_key: 5650263)
+wx23 145 2023-10-01T12:40:00 (sort_key: 6144369)
+bc28 145 2023-10-10T11:10:00 (sort_key: 6916569)
+mn13 135 2021-07-23T17:35:00 (sort_key: 7042062)
+pq16 175 2020-08-14T12:10:00 (sort_key: 7387359)
+za26 185 2019-01-15T13:50:00 (sort_key: 7540554)
+cd29 155 2020-04-25T15:40:00 (sort_key: 7809558)
+cd03 152 2001-12-09T16:45:00 (sort_key: 7896600)
+fg06 210 2017-02-25T11:30:00 (sort_key: 8002548)
+ab01 154 1993-09-15T08:10:00 (sort_key: 8060874)
+uv21 200 2023-03-06T09:00:00 (sort_key: 8073567)
+kl11 150 2019-09-11T10:30:00 (sort_key: 8178156)
+tu20 155 2018-06-10T09:00:00 (sort_key: 8601552)
+xy24 160 2023-11-01T14:05:00 (sort_key: 8827869)
+no14 140 2003-07-22T09:30:00 (sort_key: 8846505)
+ab27 110 2023-07-15T08:00:00 (sort_key: 9388368)
+	Command being timed: "./a.out"
+	User time (seconds): 0.46
+	System time (seconds): 0.04
+	Percent of CPU this job got: 11%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.36
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 38144
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 50821
+	Voluntary context switches: 42
+	Involuntary context switches: 18
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
